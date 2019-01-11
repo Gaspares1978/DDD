@@ -1,0 +1,17 @@
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\EntityFramework.dll
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\ProjetoDDD.Domain.dll
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\ProjetoDDD.Domain.pdb
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\ProjetoDDD.Domain.dll.config
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\EntityFramework.xml
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.Migrations.Initial.resources
+C:\Users\Fernando\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\x86\Debug\ProjetoModeloDDD.Infra.Data.csproj.GenerateResource.cache
